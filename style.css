@@ -1,0 +1,32 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.outer {
+  width: 400px;
+  height: 400px;
+  background-color: #a6a9b6;
+  border: 5px solid #666360;
+  position: relative;
+}
+
+.inner {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+}
+
+/* #orange {
+  background-color: #ff912e;
+} */
+
+.orange {
+  background-color: #ff912e;
+  bottom: 0;
+  right: 0;
+}
+
+.grey {
+  background-color: #e4e4e4;
+}
